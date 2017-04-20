@@ -1,0 +1,22 @@
+{
+  "name": "bamboohr-employee-flashcards",
+  "description": "",
+  "author": "Tim Vergenz <vergenzt@gmail.com>",
+  "version": "0.1",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.bamboohr.com/anytime/directory.php"
+      ],
+      "js": [
+        "lib/jquery-2.0.0.min.js",
+        "lib/carlsednaoui-ouicards-184848b6.js",
+        "flashcards.js"
+      ],
+      "css": [
+        "flashcards.css"
+      ]
+    }
+  ]
+}
