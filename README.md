@@ -2,6 +2,10 @@
 
 Know your coworkers! Chrome extension to match faces to names
 
+## Installation
+
+[![BambooHR Employee Flashcards](https://img.shields.io/chrome-web-store/v/ppijoomaggomgpbglalcpjlpiildekem.svg)](https://chrome.google.com/webstore/detail/bamboohr-employee-flashca/ppijoomaggomgpbglalcpjlpiildekem?hl=en-US)
+
 ## Usage
 
 With this extension enabled, visit https://your-domain-here.bamboohr.com/anytime/directory.php. A link should appear at the top to "Make this page into flashcards!".
