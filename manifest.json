@@ -3,7 +3,7 @@
   "description": "Know your coworkers! Chrome extension to match faces to names",
   "author": "Tim Vergenz <vergenzt@gmail.com>",
   "homepage_url": "https://github.com/vergenzt/bamboohr-employee-flashcards",
-  "version": "0.2",
+  "version": "0.3",
   "manifest_version": 2,
   "content_scripts": [
     {

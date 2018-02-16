@@ -1,3 +1,8 @@
 #current-question img {
-  width: 200px;
+  height: 200px;
+}
+
+.flashcard-modal {
+  /* add a bunch of margin instead of hiding since it's React :( */
+  margin-bottom: 100%;
 }
